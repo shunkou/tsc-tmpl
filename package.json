@@ -1,0 +1,20 @@
+{
+  "name": "tsc-tmpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "typings": "typings"
+  },
+  "author": "tetsu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4",
+    "webpack": "^1.13.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
