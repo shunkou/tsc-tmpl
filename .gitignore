@@ -8,3 +8,4 @@ npm-debug.log
 
 # typings
 /typings
+!/typings/index.d.ts
