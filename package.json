@@ -1,14 +1,14 @@
 {
   "name": "tsc-tmpl",
   "version": "1.0.0",
-  "description": "",
+  "description": "Typescript template",
   "main": "index.js",
   "scripts": {
     "build": "gulp build",
     "typings": "typings"
   },
   "author": "tetsu",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
     "ts-loader": "^0.8.2",
