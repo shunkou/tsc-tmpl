@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "build": "gulp build",
+    "compress": "gulp compress",
     "typings": "typings"
   },
   "author": "tetsu",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
     "ts-loader": "^0.8.2",
     "typescript": "^1.8.10",
     "typings": "^1.0.4",
